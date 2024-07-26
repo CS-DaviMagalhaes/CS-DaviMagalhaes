@@ -18,3 +18,13 @@ I'm Davi Magalhães, Software Developer and Computer Science student with a stro
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+---
+<h2 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/davi-eler-magalhaes-63a100235/" target="blank"><img align="center" src="https://github.com/CS-DaviMagalhaes/images/linkedin.svg" alt="davi-eler-magalhaes-63a100235" height="30" width="40" /></a>
+<a href="https://instagram.com/davi_eler" target="blank"><img align="center" src="https://github.com/CS-DaviMagalhaes/images/instagram.svg" alt="artem.skripnik2004" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/davi-eler-magalhaes-63a100235/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f590eb81-1c99-4dde-a0c7-7c2503a4e8b9" alt="DAVIELERM" height="30" width="40" /></a>
+</p>
+
+--- 
+![](https://komarev.com/ghpvc/?username=CS-DaviMagalhaes&color=blue)
