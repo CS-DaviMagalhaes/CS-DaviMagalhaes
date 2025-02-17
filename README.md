@@ -22,7 +22,6 @@ I'm Davi Magalhães, Software Developer and Computer Science student with a stro
 ### Connect with me 🤝:
 <div align="center">
 <a href="https://www.linkedin.com/in/davi-eler-magalhaes-63a100235/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  /></a>
-<a href="https://instagram.com/davi_eler" target="blank"><img src="https://github.com/CS-DaviMagalhaes/CS-DaviMagalhaes/blob/main/images/instagram.svg" alt="artem.skripnik2004" height="40" width="40" /></a>
 <a href="https://www.codedex.io/@DAVIELERM" target="blank"><img src="https://github.com/user-attachments/assets/f590eb81-1c99-4dde-a0c7-7c2503a4e8b9" alt="DAVIELERM" height="40" width="40" /></a>
 </div>
 
